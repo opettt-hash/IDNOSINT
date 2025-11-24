@@ -60,7 +60,7 @@ Termux, Maupun Android Environments.
 <img src="dino6.jpg" alt="IP Result" width="10%"> <img src="dino7.jpg" alt="IP Result" width="10%">  <img src="yaping1.jpg" alt="IP Result" width="10%">
 ---
 
-## HARGA 🎭
+## Silahkan Download 🎭
 
 ```
 https://sfl.gl/5KU3Dro
