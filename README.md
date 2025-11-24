@@ -58,16 +58,14 @@ Termux, Maupun Android Environments.
 <img src="dino3.jpg" alt="IP Result" width="10%"> <img src="dino4.jpg" alt="IP Result" width="10%"> <img src="dino5.jpg" alt="IP Result" width="10%">
 
 <img src="dino6.jpg" alt="IP Result" width="10%"> <img src="dino7.jpg" alt="IP Result" width="10%">  <img src="yaping1.jpg" alt="IP Result" width="10%">
-
 ---
 
 ## HARGA 🎭
 
 ```
-Rp100.000 ( Permanent Open Source )
+https://sfl.gl/5KU3Dro
 ```
-Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kamu Pakai Sepuasnya & Selalu Update Berkala!
-
+Program Tools Script Ini Berlaku Permanent Untuk Open Source & Encrypt, Bisa Kamu Pakai Sepuasnya
 ---
 
 ## OWNER/KOMUNITAS 🎭
