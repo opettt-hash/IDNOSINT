@@ -15,8 +15,6 @@ Langsung Berdasarkan Data Yang Di Beri Pengguna, Sama Sekali Tidak Mengandalkan 
 ---
 
 ## FITUR UTAMA 🎭
-<p align="center"> <img width="400px" src="https://i.postimg.cc/258grZf5/world1.webp"></p>
-
 *Informasi: Script Ini Masih Dalam Tahap Pengembangan Dan Penambahan Fitur Secara Berkala, Versi Selanjutnya Akan Membawa Lebih Banyak Alat Dan Perbaikan.*
 
 Validasi Data Kependudukan (NIK), IMEI, Email, Nomor HP, Dan Rekening Bank
